@@ -1,0 +1,135 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(to left, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+.pytanie{
+    max-width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: white;
+    border-radius: 50px;
+    font-size: 1.6em;
+    padding: 5%;
+}
+.odpowiedzi{
+    width: 60%;
+    min-height: 20%;
+    background: white;
+    border-radius: 50px;
+    padding: 2%;
+    justify-items: center;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 20px;
+}
+.wybor{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: auto;
+    cursor: pointer;
+    font-size: 1.4em;
+    padding: 10%;
+    text-align: center;
+
+}
+.odpowiedz{
+    border: 2px solid black;
+    border-radius: 10px;
+    min-width: 150px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: auto;
+    cursor: pointer;
+    font-size: 1.4em;
+    padding: 5%;
+    text-align: center;
+}
+.poprawne{
+    background: greenyellow;
+    border: 2px solid black;
+    border-radius: 10px;
+    min-width: 150px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: auto;
+    cursor: pointer;
+    font-size: 1.4em;
+    padding: 5%;
+    text-align: center;
+}
+
+
+
+@media only screen and (max-width:1200){
+    .odpowiedzi{
+        width: 70%;
+        font-size: 0.8em;
+    }
+}
+@media only screen and (max-width:1000){
+    .odpowiedzi{
+        width: 80%;
+        font-size: 0.8em;
+    }
+}
+@media only screen and (max-width:870){
+    .odpowiedzi{
+        width: 90%;
+        font-size: 0.8em;
+    }
+}
+@media only screen and (max-width:780){
+    .odpowiedzi{
+        width: 90%;
+        font-size: 0.8em;
+    }
+    .odpowiedz{
+        min-width: 100px;
+    }
+    .poprawne{
+        min-width: 100px;
+    }
+}
+@media only screen and (max-width:600){
+    .odpowiedzi{
+        width: 70%;
+        font-size: 0.8em;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        padding: 30px
+    }
+}
+@media only screen and (max-width:375){
+    .pytanie{
+        font-size: 1.3em;
+    }
+}

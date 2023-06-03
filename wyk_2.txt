@@ -1,0 +1,150 @@
+Jak nazywał się pierwszy wystrzelony przez ZSRR sztuczny satelita Ziemi:
+1
+Sputnik
+Nelson
+NF-82
+CGam
+Które z podanych zaganień miały wpływ na rozwój sieci komputerowych:
+2
+Rozwój techniki cyfrowej i optycznej
+Rozwój oprogramowania, nowe usługi
+Lenistwo listonoszy
+Postępujące starzejące się społeczeństwo
+Do czego służy sieć komputerowa:
+1
+Służy do przesyłania informacji w postaci elektronicznej na dowolne odległości
+Służy do przesyłania informacji w postaci elektronicznej na ustalone odległości
+Służy do przesyłania informacji w postaci analogowej na dowolne odległości
+Służy do przesyłania informacji w postaci analogowej na ustalone odległości
+Wybierz klasyfikacje sieci w kolejności od najmniejszej odległości do największej:
+1
+Radiowe -> Osobiste -> Miejskie -> Lokalne -> Rozległe
+Osobiste -> Localne -> Radiowe -> Miejskie -> Rozległe
+Localne -> Osobiste -> Radiowe -> Miejskie -> Rozległe
+Rozległe -> Radiowe -> Miejskie -> Localne -> Osobiste
+Sieci rozległe noszą nazwę:
+1
+WAN
+LAN
+MAN
+PAN
+Sieci lokalne noszą nazwę:
+1
+LAN
+VSAT
+MAN
+WAN
+Sieci miejskie nosza nazwę:
+1
+MAN
+VSAT
+PAN
+WAN
+Sieci osobiste noszą nazwę:
+1
+PAN
+wireless
+VSAT
+MAN
+Sieci satelitarne noszą nazwę:
+1
+VSAT
+WAN
+MAN
+PAN
+Wskaż nieistniejącą topologię sieciową:
+1
+Krzak
+Drzewo
+Magistrala
+Pierścień
+Zajmuje się standardami dotyczącymi sieci komputerowych:
+1
+IEEE
+IETF
+ITU
+ISO
+Zajmuje się opracowaniem dokumentów RFC
+1
+IETF
+IEEE
+ITU
+ISO
+Międzynarodowa Unia Telekomunikacyjna
+1
+ITU
+IEEE
+IETF
+ISO
+Międzynarodowa Organizacja Standaryzacyjna
+1
+ISO
+IEEE
+IETF
+ISO
+Przewaga na rynku to:
+1
+Zyskuje firma oferująca jako pierwsza na rynku nowy produkt
+Oznacza, że koszt zmiany na inny produkt jest dla klienta zbyt duży
+W danym sektorze możę być przełamany przez nowe technologię
+To pozytywne sprzężenie zwrotne powodujące wzrost popularności
+Uwięzienie klientów na rynku oznacza:
+1
+Że koszt zmiany na inny produkt jest dla klienta zbyt duży
+Zyskującą firme oferującą jako pierwsza na rynku nowy produkt
+Że w danym sektorze panuje monopol i wejście w ten sektor jest utrudnione
+W danym sektorze może zostać przełamany przez nowe technologie zakłócające dotychczasowy układ
+Długi ogon oznacza:
+1
+że oferta firmy jest skalowalna i obejmuje szeroki zakres produktów
+że w danym sektorze panuje monopol i wejście w ten sektor jest utrudnione
+że w danym sektorze może zostać przełamany przez nowe technologie zakłócające dotychczasowy układ 
+że koszt zmiany na inny produkt jest dla klient zbyt duży
+Bariera wejścia oznacza:
+1
+że w danym sektorze panuje monopol i wejście w ten sektor jest utrudnione 
+w danym sektorze może zostać przełamany przez nowe technologie zakłócające dotychczasowy układ
+że koszt zmiany na inny produkt jest dla klient zbyt duży
+że oferta firmy jest skalowalna i obejmuje szeroki zakres produktów
+Otwarte problemy w sieciach komputerowych to:
+3
+Adresacja
+Skalowalność
+Bezpieczeństwo
+Skomplikowanie
+Otwarte problemy w sieciach komputerowych - adresacja:
+1
+Jak zapewnić jednoznaczność adresów i jak sobie radzić z bardzo duża ilością adresów
+Jak zapewnić, żeby sieć działała poprawnie wraz ze wzrostem wielkości sieci
+Jak zapewnić poufność przesyłanych danych i sprawdzić od kogo są wysyłane
+Czy koncesjonować tworzenie i użytkowanie sieci, gdzie popełniono przestępstwo
+Otwarte problemy w sieciach komputerowych - niezawodność:
+1
+Jak zapewnić, aby wszystkie przesyłane informacje dotarły do adresatów
+Jak zapewnić, żeby sieć działała poprawnie wraz ze wzrostem wielkości sieci
+Jak zapewnić poufność przesyłanych danych i sprawdzić od kogo są wysyłane
+Jak zapewnić jednoznaczność adresów i jak sobie radzić z bardzo duża ilością adresów
+Otwarte problemy w sieciach komputerowych - bezpieczeństwo:
+1
+Jak zapewnić poufność przesyłanych danych i sprawdzić od kogo są wysyłane
+Jak zapewnić jednoznaczność adresów i jak sobie radzić z bardzo duża ilością adresów
+Czy koncesjonować tworzenie i użytkowanie sieci, gdzie popełniono przestępstwo
+Jak zapewnić, żeby sieć działała poprawnie wraz ze wzrostem wielkości sieci
+Otwarte problemy w sieciach komputerowych - skalowalność:
+1
+Jak zapewnić, żeby sieć działała poprawnie wraz ze wzrostem wielkości sieci
+Czy koncesjonować tworzenie i użytkowanie sieci, gdzie popełniono przestępstwo
+W jaki sposób pobierać opłaty za korzystanie z sieci oraz w jaki sposób je różnicować
+Jak zapewnić jednoznaczność adresów i jak sobie radzić z bardzo duża ilością adresów
+Otwarte problemy w sieciach komputerowych - Aspekty ekonomiczne:
+1
+W jaki sposób pobierać opłaty za korzystanie z sieci oraz w jaki sposób je różnicować
+Jak zapewnić jednoznaczność adresów i jak sobie radzić z bardzo duża ilością adresów
+Jak zapewnić, żeby sieć działała poprawnie wraz ze wzrostem wielkości sieci
+Czy koncesjonować tworzenie i użytkowanie sieci, gdzie popełniono przestępstwo
+Otwarte problemy w sieciach komputerowych - Aspekty prawne:
+1
+Czy koncesjonować tworzenie i użytkowanie sieci, gdzie popełniono przestępstwo
+W jaki sposób pobierać opłaty za korzystanie z sieci oraz w jaki sposób je różnicować
+Jak zapewnić, żeby sieć działała poprawnie wraz ze wzrostem wielkości sieci
+Jak zapewnić poufność przesyłanych danych i sprawdzić od kogo są wysyłane
